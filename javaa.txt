@@ -1,0 +1,38 @@
+JAVA:->
+     Java is a popular programming language, created in 1995.It is owned by Oracle, and more than 3 billion devices run Java.
+*It is used for:
+-Mobile applications (specially Android apps)
+-Desktop applications
+-Web applications
+-Web servers and application servers
+-Games
+-Database connection
+-And much, much more
+
+
+*Why Use Java?
+-Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+-It is one of the most popular programming language in the world
+-It is easy to learn and simple to use
+-It is open-source and free
+-It is secure, fast and powerful
+-It has a huge community support (tens of millions of developers)
+-Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
+-As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+
+*Syntax of java:->
+class Main{
+public static void main(String args[]){
+System.out.println();
+}
+}
+every line of java code in program which runs must be written inside the class...in above syntax or example we can see that i had written as class Main 
+here 'Main' is nothing but a class name and the code whatever we want to run must be in side this class only.and while saving the java code we must save 
+with class name.java..and in above example we can see that after the class thr is a method which we call it as main method so whataver the code may be it 
+will get executed....and in side the main method we can make use the print (System.out.println)method to print or screen the text whichever we want...and curly
+braces should mandantory to use at begging and at the end of the program bcz bit means that '{'starting of the program '}'end of the program.
+
+
+
+ 

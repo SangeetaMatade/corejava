@@ -1,0 +1,34 @@
+Associations in java:->
+
+*Associations in java is coonection of two classes to set their objects.
+*so let me explin with a small example and that is 
+
+
+ 1st file                          2nd file 
+class Watch{                       class Light
+String model="Rolex";               Boolean on;
+Light light=new light();
+Watch(String model);
+this.model=model;
+System.out.println("invoked String");
+public static void main(String args[]){
+Watch watch=new watch("Rolex");
+String model=watch.model;
+Light light=watch.light;
+System.out.println("watch.model");
+System.out.println("Light on");
+}
+}
+
+
+*in above example we can see that i used two classes and connected to set different objects,,,,,where in one  class name is "Watch" where i just declared some 
+instance variables as String model,,,,and assigned value for instance variables as Rolex,then in 2nd class Light i hve just declaired a instance variable as on,,,,,
+so from their in 1st class i created object as Light light=new light, using new keyword and which we usually call it as instantition.so after that i just craeted method 
+as Watch so next i have taken as this.model=model bcz....if we take similar local and instance variable then we have to use this.model to call the method 
+or else we can use only instance variable =local varible.then i used print statement to instance variable.
+      and in main method created object and again i called instance variable by instance variable=reference.name of instance variable. and after that i 
+printed the instance varibles..............
+Note--->one thing we have to note that in association method what we do is just to declare the 2nd file instance variabl,,we have to use class name,
+variable name=new variable name in 2nd class......
+
+imp***static can be called using staic method(ss)

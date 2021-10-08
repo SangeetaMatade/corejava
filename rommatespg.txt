@@ -1,0 +1,8 @@
+class rommatespg{
+public static void main(String args[]){
+payingGuest.Onesharing("canyaman","hubli",1);
+payingGuest.Twosharing("saneim","gadag",2);
+payingGuest.Threesharing("jhon","banglore",3);
+}
+}
+

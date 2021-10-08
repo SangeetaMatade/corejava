@@ -1,0 +1,3 @@
+enum FoodOrderType{
+ONEPLATE,SINGLEPLATE,HALFPLATE
+}

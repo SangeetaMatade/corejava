@@ -1,0 +1,11 @@
+variables:
+clss demo{
+int a;//global variables//
+String name;
+public void method(){
+boolean type;//local variables//
+long phone;
+}
+}
+methods:collection of statements is known as methods
+two types:1-

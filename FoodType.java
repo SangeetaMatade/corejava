@@ -1,0 +1,3 @@
+enum FoodType{
+SWEET,SPICY
+}

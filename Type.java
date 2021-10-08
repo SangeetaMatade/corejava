@@ -1,0 +1,3 @@
+class FoodType{
+SWEET,SPICY
+}
