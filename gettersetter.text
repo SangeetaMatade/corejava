@@ -1,0 +1,27 @@
+so here today i am going to tell you about setter and getter method
+so if we want hide our data in pgm or to make our data safe then we have to make use of encapsulation concept ,,,,
+and this can be achived using just by declaring class variables as private and we have to use public get and set methods to access and update the value of 
+private variable.
+and private variables can only be accessed within the same class(outside the class it has no access to it)
+it is only possible to access them if we provide public get and set methods.
+get:the get method returns the variable value.
+set: set method sets the value.
+
+
+
+
+
+
+
+
+
+
+
+so here im going to tell u abt setter and getter method 
+see if we want to make our data safe in pgm mans we have to use the concept as encapsulation
+and this can be achived just by declaring te class variables as private,,,,,and now we should make use of setter and getter method just to access and 
+update the value given to variables,
+and one thing is we can access private variables only inside the class outside the cass it has no access but this can be possible by making use of getter and
+setter method.
+so what are getter nd setter method here
+they are ntg but setter means it is used to set the valuee and getter means it will returns the value of variable.

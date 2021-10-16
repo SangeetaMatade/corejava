@@ -3,6 +3,7 @@ class TubeLight
 	private String name="sanjota";
 	
 	private int watts;
+	
 	String getName(){
 		return this.name;
 	}
