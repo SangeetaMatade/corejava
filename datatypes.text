@@ -1,0 +1,31 @@
+DATA TYPES:-->
+data type is a type of data which is used to store the different siz and values in variables...are
+known as data types.
+*thr are two types in data types 
+1.primitive data type.
+2.non primitive data type.
+*primitive data type:->
+  primitive data type is a type of data type which is already predifined and used to store the 
+different values and size in variables.
+-thr are 8 types of primitive data types
+1.byte-1byte->default value is 0...ex->byte mynum=4;
+2.short-2byte->default value is 0....ex->short mynum=4;
+3.int-4byte->default value is 0...ex->int mynum=4;
+4.long-8 byte->default value is 0L...long mynum=6666666666L;
+5.float-4 byte->default value is 0.0f......float mynum=4.0f;
+6.double-8 byte->default value is 0.0d....double mynum=4.0;
+7.boolean-1 bit->default value is false...boolean work=true;
+8.char-2 byte->default value is u0000....char sky="s";
+the data types int,short,byte,long,double are keywords.but the datatypes like string,boolean,char
+are class
+*Non-primitive data types->
+non primitive data types are data types which are defind by programmers,,,programmers only uses the 
+reference as datatype to store the different values or size in variables.
+*thr are 4 types of non primitive type of data types->
+1.array-array is a data type which is used to store the number of elements.the default value of array 
+is 0.
+2.String-String is also a data type which is used to store the sequence of words or sentences.the 
+default value of String is null.
+3.class-class is a collection of objects,,class will create object by taking number of values.
+4.interface-
+

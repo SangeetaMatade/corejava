@@ -1,0 +1,27 @@
+Variables in java:->
+variables is ntg but its like container in java so that we can store any elemets or values in
+variables or variable or used to store the elements.
+*Thr are 3 types of variables in java
+1.local variable->local variable is a variable which is declared only within the body of method 
+or in parameters of method is ntg but the local variable.
+syntax:public void name(){
+String a="sangeeta";//inside the body so it is local variable
+}
+public void name(String name){  //inside the parameter is a local variable.
+}
+to access the local variable we just need a print statement or direct access(sop).
+2.instance or non static variable->instance variable is a variable which is used to store the 
+given or declared value within the class but outside all the methods is called as non static
+or instance method.
+syntax:class A{
+int a; //variable is inside the class and outside the method so it is instance variable
+public static void main(String args[]){
+}
+}
+to call instance variable we need reference.
+3.static vaiable->static variable is a variable which is used to store the value or size using 
+keyword as static before any datatype
+example:static int a;
+one thing we have to remember that it is also called as class variable bcz it will have only 
+single memory in java
+we can access or call static variable by class name as well as reference.

@@ -1,0 +1,36 @@
+Features of java:
+1.Simple->java is a very simple language,we can learn and write the java programms easily,to write any 
+programm we need to follow some syntax,if we know c and c++ syntax then we can write and understand the
+java programm easily.
+2.Object oriented->in c and c++ no need of using any class or object 
+but java is completely object oriented,here in java we cannont write any programm without 
+class and object,so it gives best maintainance whenever we develop a webapplication.
+3.Portable->java is portable y bcz see whatever the programm we write is ntg but it is a source code to 
+convert it as bytecode we need compiler so compiler converts source code to byte code so that byte
+code can be taken in someother operating system and it can be executed.for example,,we can take that bytecode 
+in pendrive and can execute in other operating system....
+4.Platform indipendent->the main feature of java is platform independent,,why bcz java can be written 
+in any platform it can be executed in other platform for example if we write java pgm in windows then
+we can execute it in linux.
+5.Secure->java is secured language,here y we are telling java as secure means whatever the members are in
+can be made private so that it will not allow to other device or progammer to use the same programm,,
+one more thing is java is made viruss free so if any athantication are thr means it will detect thr 
+only.
+6.Architectural neutral->
+7.Robust->java is robust means it is a strong language y bcz thr are 2 reasons *it is having jvm which 
+can handle error acceptions not only acceptions it will show what is a error and y that error took place
+one more reason is*it has automatic garbage collection what it will do is if in programm is thr any
+methods which we are not using then those will be automatically removed by java
+8.Interpreted->see here in java it will have its sourcecode as .java and this can be converted to .class
+by using compiler,,here interprted will have jvm that is java runtime error what this will do is
+it will convert this .class file to output,,so bcz of this reason java is interpreted.
+9.High perforance->we say that performance of java is high bcz in java compiler proviodes  bytecodes which can
+be  executed very easily using java run time error(jvm)so bcz of this performance of java is high.
+easily and 
+10.Multitreaded->here in java for single thread different different memory will not be given only one 
+memory will be given to single thread
+11.Ddynamic->why we call java is dynamic means....in java during run time we can make any changes if we want
+it may be method or  class whatever it may be we can change it if we want during run time.
+12.Distributed->java can be distributed see java pgms are made to run on internet so means we can
+use java pgms on different different networks means it can distirbuted in different different networks
+and we can use protocalls in java like stpp and all just to access pgm or data in internet.
