@@ -1,0 +1,10 @@
+METHODS:
+method is block of code or set of code which will take inputs from user and processes it then gives output.
+and methods will execute when we call them in main method.
+syntax:access specifier-return type-method name(parameters).
+there are two types of methods
+1.static:static method can be declared using static keyword before method name and static method can be accessed by
+by class name here in this one thing is we cannont access nonstatic method
+2.non static method:in nonstatic method no need of writing static keyword before method name and method can be
+accessed only by the reference of the object and we can access static method in non static method
+
