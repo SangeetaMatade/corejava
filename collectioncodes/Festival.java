@@ -1,0 +1,137 @@
+package java.com.xworkz.collectioncodes;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+
+public class Festival {
+
+	public static void main(String[] args) {
+
+		String str1 = "dipavali";
+		String str2 = "holi";
+		String str3 = "indipendance day";
+		String str4 = "sankranti";
+		String str5 = "pongal";
+		String str6 = "panchami";
+		String str7 = "shivratri";
+		String str8 = "mewar";
+		String str9 = "bihu";
+		String str10 = "baisakhi";
+		String str11 = "thrissur";
+		String str12 = "buddha jayanti";
+		String str13 = "eid ul fitr";
+		String str14 = "rata yatra";
+		String str15 = "hemis";
+		String str16 = "rashabandhan";
+		String str17 = "janmashtmi";
+		String str18 = "onam";
+		String str19 = "ganesh chaturti";
+		String str20 = "navratri";
+		String str21 = "durga pooja";
+		String str22 = "dussehra";
+		String str23 = "guruprab";
+		String str24 = "chritmas";
+		String str25 = "republic day";
+		String str26 = "losar";
+		String str27 = "carnival";
+		String str28 = "wildlife";
+		String str29 = "easter";
+		String str30 = "mahavir jayanti";
+		String str31 = "mango season";
+		String str32 = "rath yatra orissa";
+		String str33 = "eid";
+		String str34 = "meditation";
+		String str35 = "janmashtami";
+		String str36 = "muharram";
+		String str37 = "gandhi jayanti";
+		String str38 = "brach time";
+		String str39 = "marriage season";
+		String str40 = "new year";
+		String str41 = "camel treks";
+		String str42 = "rann utsav-kutch";
+		String str43 = "hornbill";
+		String str44 = "rio carnival";
+		String str45 = "wimbledon";
+		String str46 = "patricks day";
+		String str47 = "cannes film fest";
+		String str48 = "super bowl";
+		String str49 = "sydney new year";
+		String str50 = "day of te dead";
+		String str51 = "london fashion week";
+		String str52 = "venice carnival";
+		String str53 = "tomatina fest";
+		String str54 = "new orleanssunsance film";
+		String str55 = "bonnaroo";
+		String str56 = "melbourne fest";
+		String str57 = "Indianpolis 500";
+		String str58 = "august moon fest";
+		String str59 = "cosplay fest";
+		String str60 = "austin city limits";
+
+		Collection col = new ArrayList();
+
+		col.add(str1);
+		col.add(str2);
+		col.add(str3);
+		col.add(str4);
+		col.add(str5);
+		col.add(str6);
+		col.add(str7);
+		col.add(str8);
+		col.add(str9);
+		col.add(str10);
+		col.add(str11);
+		col.add(str12);
+		col.add(str13);
+		col.add(str14);
+		col.add(str15);
+		col.add(str16);
+		col.add(str17);
+		col.add(str18);
+		col.add(str19);
+		col.add(str20);
+		col.add(str21);
+		col.add(str22);
+		col.add(str23);
+		col.add(str24);
+		col.add(str25);
+		col.add(str26);
+		col.add(str27);
+		col.add(str28);
+		col.add(str29);
+		col.add(str30);
+		col.add(str31);
+		col.add(str32);
+		col.add(str33);
+		col.add(str34);
+		col.add(str35);
+		col.add(str36);
+		col.add(str37);
+		col.add(str38);
+		col.add(str39);
+		col.add(str40);
+		col.add(str41);
+		col.add(str42);
+		col.add(str43);
+		col.add(str44);
+		col.add(str45);
+		col.add(str46);
+		col.add(str47);
+		col.add(str48);
+		col.add(str50);
+		col.add(str51);
+		col.add(str52);
+		col.add(str53);
+		col.add(str54);
+		col.add(str55);
+		col.add(str56);
+		col.add(str57);
+		col.add(str58);
+		col.add(str59);
+		col.add(str60);
+
+		System.out.println(col.size());
+	}
+
+}
