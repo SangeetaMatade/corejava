@@ -130,6 +130,21 @@ public class Language {
 		col.add(str60);
 
 		System.out.println(col.size());
+		Iterator<String> itr = col.iterator();
+
+		while (itr.hasNext()) {
+			String element = itr.next();
+			System.out.println(element);
+			
+		}
+		
+		
+		boolean basket=col.contains("xyz");
+		System.out.println(basket);
+		
+		System.out.println(">kkkkkkkkkkkkkkkkkkkkkkkkkk>");
+		boolean monkey=col.remove(str30);
+		System.out.println("The 30th element is removed ".concat(String.valueOf(monkey)));
 
 	}
 
