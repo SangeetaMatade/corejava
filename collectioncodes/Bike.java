@@ -131,6 +131,24 @@ public class Bike {
 			col.add(str60);
 
 			System.out.println(col.size());
+		col.clear();
+
+		System.out.println(col.size());
+		Iterator<String> itr = col.iterator();
+
+		while (itr.hasNext()) {
+			String element = itr.next();
+			System.out.println(element);
+
+		}
+
+		boolean bachan = col.contains("xyz");
+		System.out.println(bachan);
+
+		System.out.println(".,.,.,.,,.,.,.,,.");
+		boolean hp = col.remove(str30);
+		System.out.println("The 30th element is removed ".concat(String.valueOf(hp)));
+
 
 
 
