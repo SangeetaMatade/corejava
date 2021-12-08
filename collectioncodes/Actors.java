@@ -130,6 +130,24 @@ public class Actors {
 		col.add(str60);
 
 		System.out.println(col.size());
+		col.clear();
+
+		System.out.println(col.size());
+		Iterator<String> itr = col.iterator();
+
+		while (itr.hasNext()) {
+			String element = itr.next();
+			System.out.println(element);
+
+		}
+
+		boolean bol = col.contains("xyz");
+		System.out.println(bol);
+
+		System.out.println(".,.,.,.,,.,.,.,,.");
+		boolean del = col.remove(str30);
+		System.out.println("The 30th element is removed ".concat(String.valueOf(del)));
+
 	
 
 
