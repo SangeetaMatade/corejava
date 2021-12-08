@@ -130,7 +130,7 @@ public class Car {
 		col.add(str58);
 		col.add(str59);
 		col.add(str60);
-		System.out.println(col.size());
+		
 
 		col.clear();
 
